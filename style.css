@@ -1,0 +1,12 @@
+
+body {
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Courier New';
+}
+/* element with id="nav*/
+/*https://<github-username>.github.io/<pages-repo>/*/
+#nav {
+	background-color: DeepSkyBlue;
+	padding: 10px;
+}
