@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Literally 95% of my time</title>
+		<link href="./style.css" rel="stylesheet"/>
+	</head>
+	<body>
+		<div id="header">
+			<h1>Computer Science 228 homework!</h1>
+		</div>
+		<div id="nav">
+			<a href="#index">Home</a>
+		</div>
+	</body>
+</html>
