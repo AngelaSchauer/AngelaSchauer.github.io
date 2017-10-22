@@ -1,8 +1,10 @@
-
 body {
 	padding: 10px;
 	margin: 10px;
 	font-family: "Times New Roman", Times, serif;
+}
+h1{
+    color: red;
 }
 /* element with id="nav*/
 /*https://<github-username>.github.io/<pages-repo>/*/
